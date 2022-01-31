@@ -21,3 +21,4 @@ Para baixar e instalar o projeto, siga os passos:
 4. `npm start` ou `yarn start`
 
 <sub><sup>Este projeto foi desenvolvido para um [desafio de Front-End](https://github.com/lubysoftware/join/tree/react) da Luby Software.</sub></sup>
+
