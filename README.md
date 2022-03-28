@@ -1,7 +1,9 @@
 ## Sistema para gerenciamento de loja de veículos 💻🚗
 
-Aplicação desenvolvida em ReactJS\
+Aplicação desenvolvida em ReactJS
+<!--\
 🔗 Link de acesso da aplicação em funcionamento: [https://autoluby-frontend-deploy-savifon.vercel.app](https://autoluby-frontend-deploy-savifon.vercel.app)
+-->
 
 ## A Aplicação
 
